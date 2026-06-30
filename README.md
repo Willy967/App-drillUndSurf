@@ -7,7 +7,7 @@ App para gestión de pozos en mina subterránea y superficie. Util para transmit
 
 ```markdown
 <p align="center">
-  <img src="assets/Logo UndSurf 1.png" alt="Logo Undsurf" width="200"/>
+  <img src="assets/Logo-UndSurf-1.png" alt="Logo Undsurf" width="200"/>
 </p>
 # Undsurf - Sistema de Gestión de Datos de Perforación Minera
 
